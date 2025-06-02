@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "description": "Eiffel Tower, Museums, Culture",
+    "category": "Popular",
+    "image": "https://img.freepik.com/free-photo/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand_335224-846.jpg?uid=R180858093&semt=ais_hybrid&w=740",
+    "price": "$150",
+    "duration": "3 Days"
+  },
+  {
+    "id": 2,
+    "name": "New York",
+    "description": "Statue of Liberty, City Tour",
+    "category": "Popular",
+    "image": "https://img.freepik.com/free-photo/maldives-island_1203-3252.jpg?uid=R180858093&semt=ais_hybrid&w=740",
+    "price": "$120",
+    "duration": "4 Days"
+  },
+  {
+    "id": 3,
+    "name": "Kyoto",
+    "description": "Temples, Nature, Culture",
+    "category": "Featured",
+    "image": "https://img.freepik.com/free-photo/lagoon-landscape-hut-reef-bay_1232-4571.jpg?uid=R180858093&semt=ais_hybrid&w=740",
+    "price": "$90",
+    "duration": "2 Days"
+  },
+  {
+    "id": 4,
+    "name": "Rome",
+    "description": "Historical Sites, Colosseum,",
+    "category": "Featured",
+    "image": "https://img.freepik.com/free-photo/sea-vacation-beach-villa-nature_1203-5314.jpg?uid=R180858093&semt=ais_hybrid&w=740",
+    "price": "$100",
+    "duration": "1 Day"
+  },
+  {
+    "id": 5,
+    "name": "Santorini",
+    "description": "Beaches, Sunset, Architecture",
+    "category": "New",
+    "image": "https://img.freepik.com/free-photo/beautiful-aerial-view-beach_74190-6862.jpg?uid=R180858093&semt=ais_hybrid&w=740",
+    "price": "$80",
+    "duration": "3 Days"
+  },
+  {
+    "id": 6,
+    "name": "Bali",
+    "description": "Beaches, Culture, Resorts",
+    "category": "Popular",
+    "image": "https://img.freepik.com/free-photo/maldives-house-exotic-travel-sea_1203-5358.jpg?uid=R180858093&semt=ais_hybrid&w=740",
+    "price": "$110",
+    "duration": "2 Days"
+  },
+  {
+    "id": 7,
+    "name": "Amsterdam",
+    "description": "Canals, Museums, Art",
+    "category": "Discount",
+    "image": "https://img.freepik.com/free-photo/umbrella-chair-around-swimming-pool_1203-2419.jpg?uid=R180858093&semt=ais_hybrid&w=740",
+    "price": "$70",
+    "duration": "3 Days"
+  },
+  {
+    "id": 8,
+    "name": "Sydney",
+    "description": "Opera House, Harbor, Beaches",
+    "category": "Popular",
+    "image": "https://img.freepik.com/free-photo/beach-water-beautiful-leisure-health_1203-4902.jpg?uid=R180858093&semt=ais_hybrid&w=740",
+    "price": "$130",
+    "duration": "4 Days"
+  }
+]
